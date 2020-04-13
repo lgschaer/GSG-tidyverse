@@ -1,6 +1,6 @@
 # GSG-tidyverse
 
-##Before the workshop participants should:
+Before the workshop participants should:
 
 Install R Studio
 
