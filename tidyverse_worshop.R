@@ -6,6 +6,8 @@
 library(tidyverse)
 ## install.packages("ggrepel") 
 library("ggrepel")
+## install.packages("csv")
+library(csv)
 
 #We need to load the data into R before we can do any analysis
 #There are two options for this
